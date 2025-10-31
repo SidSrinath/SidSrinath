@@ -1,67 +1,67 @@
-## 👋 Hi, I’m Siddarth Srinath
+## Hi, I’m Siddarth Srinath
 
-🎓 **M.S. Computer Science | Northeastern University**  
-💼 **Prev intern @ Viasat**  
-📍 Boston, MA | 📧 siddarth.srinath2002@gmail.com | [LinkedIn](https://www.linkedin.com/in/siddarth-srinath)
-
----
-
-### 💡 About Me
-
-I’m a **software engineer and machine learning practitioner** passionate about developing scalable, intelligent systems that solve real-world problems.  
-My background spans **automation, distributed infrastructure, and applied AI**, with hands-on experience building production-grade systems at **Viasat** and **Tejas Networks**.
-
-I enjoy working at the intersection of **AI, cloud infrastructure, and software engineering** — building systems that learn, adapt, and scale seamlessly.
+**M.S. in Computer Science | Northeastern University**  
+**Prev intern @ Viasat**  
+Boston, MA | siddarth.srinath2002@gmail.com | [LinkedIn](https://www.linkedin.com/in/siddarth-srinath)
 
 ---
 
-### ⚙️ Technical Toolbox
+### About Me
+
+I’m a software engineer and machine learning practitioner who enjoys building scalable, intelligent systems that make a real impact.  
+My experience spans automation, distributed infrastructure, and applied AI, with hands-on work developing production-grade systems at **Viasat** and **Tejas Networks**.
+
+I’m particularly drawn to projects that sit at the intersection of **AI, cloud infrastructure, and software engineering**—where systems can learn, adapt, and scale to meet real-world challenges.
+
+---
+
+### Technical Toolbox
 
 **Languages:** Python, Java, C++, JavaScript, TypeScript  
 **Frameworks:** Spring Boot, React, Next.js, Node.js, Maven  
-**ML & AI:** TensorFlow, PyTorch, CNN, LSTM, Q-Learning, DQN  
+**Machine Learning:** TensorFlow, PyTorch, CNN, LSTM, Q-Learning, DQN  
 **Data & Cloud:** MySQL, MongoDB, AWS (EC2, S3, Lambda), Hadoop, Spark  
 **Other Tools:** REST APIs, Tableau, Automation, GitHub Actions, Agile  
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
-#### **AI-Powered Reinforcement Learning Agent for *Catan***
+#### AI-Powered Reinforcement Learning Agent for *Catan*
 *Python, Gym, PyTorch, TensorFlow*  
-Developed a **Deep Q-Learning** agent that achieved a **78% win rate** after training on **500K+ episodes**.  
-- Improved resource management efficiency by **42%** and reduced decision errors by **35%**.  
-- Designed Gym-based simulation environments and custom reward functions for adaptive gameplay.  
+Built a Deep Q-Learning agent that achieved a **78% win rate** after training on more than **500,000 episodes**.  
+- Improved resource management efficiency by 42% and reduced decision-making errors by 35%.  
+- Designed custom Gym environments and reward functions for adaptive, self-learning gameplay.  
 
-#### **Network Automation Platform — Viasat**
+#### Network Automation Platform — Viasat
 *Python, Golang, REST APIs, NetBox, NetDisco, NSO*  
-- Automated multi-system data synchronization in Linux environments, improving record accuracy by **30%**.  
-- Reduced manual network updates by **60%** using scalable Python and Golang scripts.  
+- Automated synchronization across multiple network management systems, improving data accuracy by 30%.  
+- Cut down manual update time by 60% with scalable automation scripts written in Python and Golang.  
 
-#### **Fault Prediction ML Pipeline — Tejas Networks**
+#### Fault Prediction ML Pipeline — Tejas Networks
 *TensorFlow, PyTorch, AWS, MySQL, PowerBI*  
-- Built an end-to-end ML pipeline to predict network faults across **1M+ records**, increasing reliability by **20%**.  
-- Integrated AWS (EC2, S3, Lambda) for scalable processing and reduced downtime by **15%**.  
+- Developed an end-to-end ML pipeline to predict network faults across **1M+ records**, increasing reliability by 20%.  
+- Leveraged AWS services (EC2, S3, Lambda) for scalable processing, reducing downtime by 15%.  
 
-#### **User & Product Management Backend API**
+#### User & Product Management Backend API
 *Java, Spring Boot, Maven, CI/CD*  
-- Developed RESTful APIs with clean architecture and design patterns.  
-- Implemented CI/CD workflows using GitHub Actions for automated testing and deployment.
-- Working on deploying this on the cloud.
+- Built RESTful APIs using clean architecture principles and design patterns.  
+- Implemented automated CI/CD pipelines with GitHub Actions for testing and deployment.  
+- Currently deploying this system to the cloud with a focus on scalability and observability.  
 
 ---
 
 ### What I’m Working On
 
-- **Deploying a backend application on the cloud** and designing its **infrastructure** for scalability and observability.  
-- Exploring **multi-agent reinforcement learning (MARL)** for adaptive AI systems.  
-- Mastering software engineering best practices and **design patterns** in **Java**.
+- Deploying a cloud-based backend system and designing its infrastructure for scale and reliability.  
+- Exploring multi-agent reinforcement learning (MARL) for adaptive AI systems.  
+- Deepening my understanding of software design patterns and engineering best practices in Java.  
 
 ---
 
 ### Let’s Connect
 
-I’m always open to opportunities in **software engineering, AI systems, or infrastructure automation** — or to collaborate on projects that combine these domains.
+I’m always open to opportunities in **software engineering**, **AI systems**, or **infrastructure automation**, and I enjoy collaborating on projects that bring these areas together.  
 
 📧 **siddarth.srinath2002@gmail.com**  
 🔗 [linkedin.com/in/siddarth-srinath](https://www.linkedin.com/in/siddarth-srinath)
