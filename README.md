@@ -54,7 +54,7 @@ Built a Deep Q-Learning agent that achieved a **78% win rate** after training on
 ### What I’m Working On
 
 - Deploying a cloud-based backend system and designing its infrastructure for scale and reliability.  
-- Exploring multi-agent reinforcement learning (MARL) for adaptive AI systems.  
+- Building ML pipelines and predictive models for automation and analytics.
 - Deepening my understanding of software design patterns and engineering best practices in Java.  
 
 ---
