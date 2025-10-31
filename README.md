@@ -34,7 +34,7 @@ Built a Deep Q-Learning agent that achieved a **78% win rate** after training on
 - Designed custom Gym environments and reward functions for adaptive, self-learning gameplay.  
 
 #### Network Automation Platform — Viasat
-*Python, Golang, REST APIs, NetBox, NetDisco, NSO*  
+*Python, REST APIs, NetBox, NetDisco, NSO*  
 - Automated synchronization across multiple network management systems, improving data accuracy by 30%.  
 - Cut down manual update time by 60% with scalable automation scripts written in Python and Golang.  
 
