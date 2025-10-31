@@ -29,7 +29,7 @@ I’m particularly drawn to projects that sit at the intersection of AI, cloud i
 
 #### AI-Powered Reinforcement Learning Agent for *Catan*
 Python | Gym | PyTorch | TensorFlow
-Built a Deep Q-Learning agent that achieved a **78% win rate** after training on more than **500,000 episodes**.  
+Built a Deep Q-Learning agent that achieved a 78% win rate after training on more than 500,000 episodes.  
 - Improved resource management efficiency by 42% and reduced decision-making errors by 35%.  
 - Designed custom Gym environments and reward functions for adaptive, self-learning gameplay.  
 
@@ -40,7 +40,7 @@ Python | REST APIs | NetBox | NetDisco | NSO
 
 #### Fault Prediction ML Pipeline — Tejas Networks
 TensorFlow | PyTorch | AWS | MySQL | PowerBI
-- Developed an end-to-end ML pipeline to predict network faults across **1M+ records**, increasing reliability by 20%.  
+- Developed an end-to-end ML pipeline to predict network faults across 1M+ records, increasing reliability by 20%.  
 - Leveraged AWS services (EC2, S3, Lambda) for scalable processing, reducing downtime by 15%.  
 
 #### User & Product Management Backend API
