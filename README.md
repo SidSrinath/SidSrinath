@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 I’m a **software engineer and machine learning practitioner** passionate about developing scalable, intelligent systems that solve real-world problems.  
-My background spans **automation, distributed infrastructure, and applied AI**, with hands-on experience building production-grade systems at **Viasat**, **Tejas Networks**, and **Snowflake**.
+My background spans **automation, distributed infrastructure, and applied AI**, with hands-on experience building production-grade systems at **Viasat** and **Tejas Networks**.
 
 I enjoy working at the intersection of **AI, cloud infrastructure, and software engineering** — building systems that learn, adapt, and scale seamlessly.
 
