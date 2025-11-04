@@ -16,17 +16,7 @@ I love solving problems where data-driven intelligence meets distributed systems
 
 ---
 
-## 🧰 Technical Toolbox
-
-**Languages:** Python · Java · C++ · JavaScript · TypeScript  
-**Frameworks:** Spring Boot · React · Next.js · Node.js · Maven  
-**Machine Learning:** TensorFlow · PyTorch · CNN · LSTM · Q-Learning · DQN  
-**Data & Cloud:** MySQL · MongoDB · AWS (EC2, S3, Lambda) · Hadoop · Spark  
-**Other Tools:** REST APIs · GitHub Actions · Tableau · Automation · Agile
-
----
-
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### 🧩 User & Product Management Backend API
 **Tech:** Java · Spring Boot · Maven · GitHub Actions  
