@@ -3,7 +3,7 @@
 🎓 **M.S. in Computer Science** — Northeastern University  
 💼 **Prev:** Software Engineering Intern @ Viasat  
 📍 Boston, MA  
-📧 siddarth.srinath2002@gmail.com • 🔗 [LinkedIn](https://linkedin.com/in/siddarth-srinath)
+🔗 [LinkedIn](https://linkedin.com/in/siddarth-srinath)
 
 ---
 
